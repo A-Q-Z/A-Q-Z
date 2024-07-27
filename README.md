@@ -1,4 +1,6 @@
-![Header](https://i.imgur.com/N4bNn8n.jpeg)
+<p align="center">
+  <img src="https://i.imgur.com/N4bNn8n.jpeg" alt="Header" width="300">
+</p>
 
 # Hi there, I'm A.Q.Z! 👋
 
@@ -20,23 +22,17 @@ I'm A.Q.Z, a passionate developer with a love for creating innovative solutions.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🔭 I’m currently working on:
-- A new exciting project related to [your project topic]
-
-### 🌱 I’m currently learning:
-- Advanced topics in [your learning topic]
-
-### 💬 Ask me about:
-- Anything related to [your expertise area]
+- A new exciting project related to Anti-Cheat
 
 ### 📫 How to reach me:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-Q-Z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/A-Q-Z/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A-Q-Z)
 
 ### ⚡ Fun fact:
-- I love [a fun fact about you]
+- I love the developement
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Q-Z&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Q-Z&layout=compact&theme=radical)
