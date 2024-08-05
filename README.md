@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/N4bNn8n.jpeg" alt="Header" width="300">
+  <img src="[https://i.imgur.com/N4bNn8n.jpeg](https://avatars.githubusercontent.com/u/176753636?s=400&u=05183d3365dc5e5c5f27864d56cc5c7c3340186f&v=4)" alt="Header" width="300">
 </p>
 
 # Hi there, I'm A.Q.Z! 👋
